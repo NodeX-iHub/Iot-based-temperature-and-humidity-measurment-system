@@ -13,8 +13,7 @@ The ESP8266 WiFi Module is a self contained SOC with integrated TCP/IP protocol 
 ##### 2. DHT-11 Sensor:
 ![](https://cdn.filestackcontent.com/resize=width:430,height:430,fit:crop,align:center/ftcmpaLvTD29PrcDmhXT)
 
-    DHT11 sensor measures and provides humidity and temperature values serially over a single wire. It can measure the relative humidity in percentage (20 to 90% RH) and temperature in degrees Celsius in the range of 0 to 50°C.
-DHT11 is a 4-pin sensor, these pins are VCC, DATA, GND and one pin is not in use shown in fig above.
+DHT11 sensor measures and provides humidity and temperature values serially over a single wire. It can measure the relative humidity in percentage (20 to 90% RH) and temperature in degrees Celsius in the range of 0 to 50°C. DHT11 is a 4-pin sensor, these pins are VCC, DATA, GND and one pin is not in use shown in fig above.
 
 ##### 3. BUZZER
 
@@ -34,6 +33,11 @@ A breadboard is used to build and test circuits quickly before finalizing any ci
 
 #### SCHEMATIC VIEW OF THE CIRCUIT
 
+![schematics](https://user-images.githubusercontent.com/84184951/159084298-6689d3fd-bbab-4817-a062-68b8d8ab53a7.png)
+
+The above figure is a schematic view of the hardware circuit of this project, that shows how the various components are being interfaced with the Nodemcu microcontroller. 
+
+visit <https://www.nodexihub.com/> for more....
 
 
 
