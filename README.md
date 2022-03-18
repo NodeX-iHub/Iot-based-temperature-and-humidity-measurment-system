@@ -7,3 +7,6 @@ Humans are faced with the challenge of getting to know the temperature and humid
 #### COMPONENTS TO BE USED
 ##### 1. ESP8266 nodemcu board:
 ![](https://components101.com/sites/default/files/components/ESP8266-NodeMCU.jpg)
+The ESP8266 WiFi Module is a self contained SOC with integrated TCP/IP protocol stack that can give any microcontroller access to your WiFi network. It creates a communication between the hardware components and the database. It also houses the microcontroller that processes the software codes sent to the hardware components.
+##### 2. DHT-11 Sensor:
+![](https://cdn.filestackcontent.com/resize=width:430,height:430,fit:crop,align:center/ftcmpaLvTD29PrcDmhXT)
